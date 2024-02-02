@@ -1,13 +1,16 @@
 
 
 function range(start, end, step = 1) {
-  let start = [];
-start.push(0<=10)
-
+const arrayNumbers = ['1','2','3','4','5','6','7','8','9','10']
+for( let start = 0; start < arrayNumbers.length; start++) {
+  console.log(arrayNumbers[start])
+}
 }
 
 function sum(numbers) {
-  // Add code.
+  for (let numbers = 0; arrayNumbers.length; number++)[
+    sum += arrayNumbers[number]
+  ]
 }
 
 
